@@ -1,3 +1,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0616. 🚀 perf: lazy-load components
 0975. 🎨 style: apply consistent indentation
+0940. 📚 docs: document token refresh logic
