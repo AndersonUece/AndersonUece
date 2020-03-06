@@ -2,3 +2,4 @@
 0616. 🚀 perf: lazy-load components
 0975. 🎨 style: apply consistent indentation
 0940. 📚 docs: document token refresh logic
+0218. 🔧 refactor: clean up auth middleware
