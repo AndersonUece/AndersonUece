@@ -5,3 +5,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0772. 🐛 fix: fix null pointer exception on login
 0733. 🐛 fix: fix null pointer exception on login
+0898. 🐛 fix: fix broken CSS in mobile view
