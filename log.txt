@@ -11,3 +11,4 @@
 0021. ✨ feat: support email verification
 0537. 🔧 refactor: remove redundant code blocks
 0538. 🐛 fix: fix broken CSS in mobile view
+0171. 🐛 fix: fix broken CSS in mobile view
