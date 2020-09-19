@@ -23,3 +23,4 @@
 0215. 🎨 style: reformat files with black
 0888. 🚀 perf: lazy-load components
 0875. ✅ test: increase coverage on auth module
+0464. 🎨 style: remove trailing whitespace
