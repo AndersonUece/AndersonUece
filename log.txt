@@ -29,3 +29,4 @@
 0027. 📚 docs: clarify environment setup
 0060. ♻️ chore: clean up unused files
 0974. ✨ feat: add export to CSV option
+0542. 🔧 refactor: organize models into subfolders
