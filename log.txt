@@ -43,3 +43,4 @@
 0996. ✅ test: test user registration edge cases
 0686. 🎨 style: standardize quote style
 0280. ✅ test: add integration test for /submit endpoint
+0924. ✅ test: mock database connection in test suite
