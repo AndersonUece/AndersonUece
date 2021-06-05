@@ -53,3 +53,4 @@
 0362. 📚 docs: add API usage examples
 0818. 🔧 refactor: remove redundant code blocks
 0847. ♻️ chore: clean up unused files
+0248. 🐛 fix: handle 500 error in quiz API
