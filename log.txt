@@ -55,3 +55,4 @@
 0847. ♻️ chore: clean up unused files
 0248. 🐛 fix: handle 500 error in quiz API
 0936. 🔧 refactor: organize models into subfolders
+0344. ♻️ chore: add GitHub actions badge
