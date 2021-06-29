@@ -59,3 +59,4 @@
 0903. ✅ test: mock database connection in test suite
 0662. ♻️ chore: clean up unused files
 0170. ✅ test: increase coverage on auth module
+0162. ♻️ chore: add GitHub actions badge
