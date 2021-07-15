@@ -61,3 +61,4 @@
 0170. ✅ test: increase coverage on auth module
 0162. ♻️ chore: add GitHub actions badge
 0566. 📚 docs: write FAQ section
+0987. ✨ feat: create admin dashboard
