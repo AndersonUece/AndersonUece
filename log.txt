@@ -78,3 +78,4 @@
 0186. ✅ test: test user registration edge cases
 0618. ✨ feat: support email verification
 0486. ✨ feat: add export to CSV option
+0258. 🐛 fix: prevent crash on empty input
