@@ -83,3 +83,4 @@
 0361. ✨ feat: support email verification
 0971. 🎨 style: standardize quote style
 0095. ✅ test: mock database connection in test suite
+0041. 🐛 fix: fix broken CSS in mobile view
