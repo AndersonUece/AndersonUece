@@ -93,3 +93,4 @@
 0605. ✨ feat: support email verification
 0539. 🔧 refactor: organize models into subfolders
 0667. ✨ feat: add export to CSV option
+0816. 🔧 refactor: organize models into subfolders
