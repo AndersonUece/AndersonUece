@@ -102,3 +102,4 @@
 0912. 📚 docs: document token refresh logic
 0418. ✅ test: mock database connection in test suite
 0592. 📚 docs: add API usage examples
+0367. 🐛 fix: fix null pointer exception on login
