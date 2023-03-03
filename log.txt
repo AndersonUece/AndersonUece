@@ -104,3 +104,4 @@
 0592. 📚 docs: add API usage examples
 0367. 🐛 fix: fix null pointer exception on login
 0173. 🚀 perf: cache repeated calculations
+0278. 🔧 refactor: clean up auth middleware
