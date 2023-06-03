@@ -114,3 +114,4 @@
 0795. 📚 docs: update README with setup steps
 0696. 🔧 refactor: clean up auth middleware
 0916. ♻️ chore: bump dependencies
+0752. ✅ test: add integration test for /submit endpoint
