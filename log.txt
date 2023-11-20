@@ -134,3 +134,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0547. 📚 docs: write FAQ section
 0985. 📚 docs: document token refresh logic
+0647. 🐛 fix: prevent crash on empty input
