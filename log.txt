@@ -135,3 +135,4 @@
 0547. 📚 docs: write FAQ section
 0985. 📚 docs: document token refresh logic
 0647. 🐛 fix: prevent crash on empty input
+0558. ✨ feat: enable dark mode toggle
