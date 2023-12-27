@@ -137,3 +137,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0558. ✨ feat: enable dark mode toggle
 0978. 🐛 fix: prevent crash on empty input
+0238. 🎨 style: apply consistent indentation
