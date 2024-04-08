@@ -145,3 +145,4 @@
 0166. 🚀 perf: cache repeated calculations
 0380. 🐛 fix: fix null pointer exception on login
 0402. 🎨 style: reformat files with black
+0022. 📚 docs: document token refresh logic
