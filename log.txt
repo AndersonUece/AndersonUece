@@ -147,3 +147,4 @@
 0402. 🎨 style: reformat files with black
 0022. 📚 docs: document token refresh logic
 0320. 📚 docs: update README with setup steps
+0066. 🔧 refactor: clean up auth middleware
