@@ -153,3 +153,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0076. 🎨 style: reformat files with black
 0206. 🐛 fix: handle 500 error in quiz API
+0697. ♻️ chore: bump dependencies
