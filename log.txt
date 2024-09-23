@@ -158,3 +158,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0010. ✨ feat: add user authentication
 0926. 🔧 refactor: organize models into subfolders
+0112. ✨ feat: enable dark mode toggle
