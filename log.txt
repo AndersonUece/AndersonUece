@@ -162,3 +162,4 @@
 0404. 📚 docs: improve code comments in utils
 0852. ✨ feat: enable dark mode toggle
 0444. ✅ test: add unit test for quiz service
+0113. ✨ feat: add user authentication
