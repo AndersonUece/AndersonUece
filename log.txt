@@ -176,3 +176,4 @@
 0209. ✨ feat: implement quiz timer feature
 0570. 🎨 style: apply consistent indentation
 0624. ✅ test: add unit test for quiz service
+0334. 🚀 perf: cache repeated calculations
