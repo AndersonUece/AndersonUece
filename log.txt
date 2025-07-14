@@ -186,3 +186,4 @@
 0516. ✅ test: add unit test for quiz service
 0905. ♻️ chore: bump dependencies
 0365. 🚀 perf: reduce image load time
+0502. 📚 docs: update README with setup steps
