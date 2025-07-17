@@ -187,3 +187,4 @@
 0905. ♻️ chore: bump dependencies
 0365. 🚀 perf: reduce image load time
 0502. 📚 docs: update README with setup steps
+0154. 🐛 fix: prevent crash on empty input
